@@ -27,3 +27,4 @@
 - [safari-markdown-linker: A handy Safari extension that helps user copying URL as markdown format](https://github.com/horimislime/safari-markdown-linker)
 - [Dark Reader - Dark mode everywhere](https://darkreader.org/)
 - [Nightfall: A menu bar utility for toggling dark mode](https://github.com/r-thomson/Nightfall)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
